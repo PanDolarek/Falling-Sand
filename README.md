@@ -14,6 +14,4 @@ controls:
 
 ![fsgif2](https://github.com/user-attachments/assets/6ebf171e-f7be-47d4-a78d-8ef7e69b6d8d)
 
-
-
-
+![fsgif3](https://github.com/user-attachments/assets/6dd0778b-6406-4fbe-a9f8-0afb01a597e0)
