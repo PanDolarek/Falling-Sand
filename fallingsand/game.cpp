@@ -65,7 +65,7 @@ void game(int **xy)
                 {
                     if (item == Wall.num)
                     {
-                        int t = 3; // Wall
+                        int t = 3; // Wall size, 3x3
                         for (int i = -t; i <= t; i++)
                         {
                             for (int j = -t; j <= t; j++)
