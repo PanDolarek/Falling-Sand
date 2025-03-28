@@ -8,7 +8,7 @@ controls:
 - R - Erase
 - Escape - Exit
 
-## The project is not final.
+<ins>***The project is not final.***</ins>
 
 ![uno](https://github.com/user-attachments/assets/093b400f-7c51-46c8-9b23-aa0073dc00df)
 
