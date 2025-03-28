@@ -10,8 +10,10 @@ controls:
 
 <ins>***The project is not final.***</ins>
 
-![uno](https://github.com/user-attachments/assets/093b400f-7c51-46c8-9b23-aa0073dc00df)
+![fsgif1](https://github.com/user-attachments/assets/81721b08-7c60-4255-bd98-4e17f5cb7b80)
 
-![dos](https://github.com/user-attachments/assets/73c2b4a1-8eb4-4683-9d48-ba4840ec7bc5)
+![fsgif2](https://github.com/user-attachments/assets/6ebf171e-f7be-47d4-a78d-8ef7e69b6d8d)
+
+
 
 
