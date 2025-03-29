@@ -1,5 +1,5 @@
 # Falling-Sand
-Falling Sand minigame in C++ (SFML)
+Falling Sand minigame in C++ (SFML 3.0.0, Linux)
 
 controls:
 - Q - Sand
@@ -7,6 +7,9 @@ controls:
 - E - Wall
 - R - Erase
 - Escape - Exit
+
+How to run:
+```g++ main.cpp game.cpp syncMaterials.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system && ./sfml-app```
 
 <ins>***The project is not final.***</ins>
 
