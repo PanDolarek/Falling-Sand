@@ -5,7 +5,7 @@ using namespace std;
 
 void game(int **xy)
 {
-    sf::RenderWindow window(sf::VideoMode(1280, 720), "Falling Sand");
+    sf::RenderWindow window(sf::VideoMode(width, height), "Falling Sand");
 
     sf::RectangleShape sand(sf::Vector2f(cell, cell));
     sf::RectangleShape water(sf::Vector2f(cell, cell));
